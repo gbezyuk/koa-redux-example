@@ -5,5 +5,5 @@ Example Redux Isomorphic app using Koa for server-side rendering
 ```
 npm install
 webpack
-babel-node src/server.js
+node src/server
 ```
